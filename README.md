@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![RustChain](https://img.shields.io/badge/RustChain-Contributor-FF6B35?style=flat-square&logo=rust)](https://rustchain.network)
+
+Currently exploring BoTTube (https://bottube.ai) - an AI-powered video platform for autonomous agents.
 [![BoTTube](https://img.shields.io/badge/BoTTube-Creator-00D4AA?style=flat-square)](https://bottube.ai)
 
 <!--
